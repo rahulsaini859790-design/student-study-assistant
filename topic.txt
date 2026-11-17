@@ -1,0 +1,7 @@
+Project Topic: Student Study Assistant
+
+Description:
+A rule-based virtual assistant that helps students with study tips, time management, exam preparation, motivation, basic programming guidance, and date/time information.
+
+Technology Used:
+Python and Streamlit.
